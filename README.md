@@ -2,19 +2,22 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono:wght@700&pause=1000&color=2E9AFF&color2=8A2BE2&center=true&vCenter=true&width=780&lines=Software+Engineer+%7C+Full-Stack+Engineer;AI+Systems+Engineer+%7C+ML+%26+Data+Science;Passionate+About+Building+Intelligent+Systems" alt="Typing SVG" />
 </p>
 
-👋 Hi, I'm Warda Hasan, a Computer Engineering graduate from 🎓 American University of Sharjah (AUS) with a strong foundation in Software Engineering and AI/ML.
-I have hands-on experience designing and developing innovative, efficient systems that merge backend logic, frontend experience, and intelligent functionality.
+👋 Hi, I'm **Warda Hasan**, a **Computer Engineering graduate** from 🎓 **American University of Sharjah (AUS)** with a strong foundation in **Software Engineering** and **AI/ML**.  
+I design and build **innovative, intelligent systems** that combine backend logic, seamless frontend experiences, and applied machine learning.  
 
-Through academic and professional experiences, I’ve worked across the entire software development lifecycle (SDLC) from requirements gathering and system design to coding, testing, and deployment. I’ve also worked on projects that bring AI into real applications, from machine learning and data science to integrating intelligent components through OpenAI API and prompt engineering. These experiences have helped me design data-driven systems that solve real-world problems.
+I’ve worked across the **entire software development lifecycle (SDLC)** — from requirements gathering and design to coding, testing, and deployment.  
+My AI experience spans both **AI system integration** — using **OpenAI API** and **prompt engineering** — and **machine learning research**, including **model training, data preprocessing, and feature analysis** for projects in **prediction and data science**.  
 
-Welcome to my GitHub!
-Here you’ll find my project folders, each showcasing a chapter of my journey in software engineering, AI systems, and data science.
-Click a folder below to explore 👇
+Welcome to my GitHub!  
+Here you’ll find my **project folders**, each highlighting a chapter of my journey across **software engineering**, **AI systems**, and **data science**.  
+Click below to explore 👇  
+
+---
 
 ## 🗂️ My Projects  
 
 <details open>
-<summary> <img src="https://img.shields.io/badge/Software%20Engineering-%231E90FF?style=flat&labelColor=black" /> </summary>
+<summary>━━━━━━━━ 💙 <strong>Software Engineering Projects</strong> ━━━━━━━━</summary>
 <br>
 
 **🧠 COMPAIR – AI-Powered Comparison Assistant**  
@@ -42,7 +45,7 @@ Built with **Python**, **Flask**, **Raspberry Pi**, and **REST APIs**, combining
 ---
 
 <details>
-<summary> <img src="https://img.shields.io/badge/AI%20%26%20Machine%20Learning-%238A2BE2?style=flat&labelColor=black" /></summary>
+<summary>━━━━━━━━ 💜 <strong>AI & Machine Learning Projects</strong> ━━━━━━━━</summary>
 <br>
 
 **🧩 COMPAIR – AI Integration**  
@@ -69,11 +72,11 @@ Worked with real datasets, focusing on data analysis, training, and visualizatio
 ---
 
 <details>
-<summary> <img src="https://img.shields.io/badge/Data%20Science-%23228B22?style=flat&labelColor=black" /></summary>
+<summary>━━━━━━━━ 💚 <strong>Data Science Projects</strong> ━━━━━━━━</summary>
 <br>
 
-Projects centered on extracting insights, analyzing trends, and visualizing model performance.  
-Tools used: **Python**, **Pandas**, **NumPy**, **Matplotlib**, **Seaborn**, **Power BI**.
+Projects focused on extracting insights, analyzing trends, and visualizing model performance.  
+Tools used: **Python**, **Pandas**, **NumPy**, **Matplotlib**, **Seaborn**, and **Power BI**.
 
 </details>
 
@@ -89,14 +92,20 @@ Tools used: **Python**, **Pandas**, **NumPy**, **Matplotlib**, **Seaborn**, **Po
 **Databases:** SQL (Oracle), NoSQL (Firebase Realtime Database)  
 **Cloud Platforms:** Google Cloud Platform (GCP), Firebase Hosting, Microsoft Azure  
 
+---
+
 ### 🚀 Currently Working On  
 
 Refining **COMPAIR** — expanding its architecture, improving grounding, and optimizing AI outputs while uniting my interests in **AI engineering**, **prompt design**, and **full-stack development**.  
 
+---
+
 ### 🌐 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Warda%20Hasan-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/wardacoder)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Warda%20Hasan-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/wardaulhasan)  
 📧 **Email:** wardaulhasan@gmail.com  
+
+---
 
 <p align="center">
   <em>“Code is the engine, data is the fuel, and intelligence is the outcome.”</em>
