@@ -1,14 +1,15 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9AFF&center=true&vCenter=true&width=750&lines=Computer+Engineer+%7C+Software+Engineering+%2B+AI+Integration;Full+Stack+Developer+%7C+AI+Engineer;Passionate+about+Building+Intelligent+Systems" alt="Typing SVG" />
-</p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9AFF&center=true&vCenter=true&width=750&lines=Computer+Engineer+%7C+Software+Engineering+%2B+AI+Integration;Full+Stack+Developer+%7C+AI+Engineer;Passionate+about+Building+Intelligent+Systems" alt="Typing SVG" /> </p>
 
-🎓 Hi I'm a **Computer Engineering graduate** from the **American University of Sharjah (AUS)** with a strong passion for **Software Engineering** and **AI Integration**. I love designing and developing intelligent, user-friendly systems that merge backend logic, frontend experience, and applied machine learning.
+👋Hi I'm a **Computer Engineering graduate** from the 🎓**American University of Sharjah (AUS)** with a strong passion for **Software Engineering** and **AI Integration**. I love designing and developing intelligent, user-friendly systems that merge backend logic, frontend experience, and applied machine learning.
 
 Welcome to my GitHub!  
-Here you’ll find my main folders, each representing a part of my software engineering and AI journey. Click a folder below to explore my projects 👇  
+Here you’ll find my main folders — each representing a part of my software engineering and AI journey.  
+Click a folder below to explore my projects 👇  
+
+## 🗂️ My Projects  
 
 <details open>
-<summary>📁 <span style="color:#1E90FF"><strong>Software Engineering Projects</strong></span></summary>
+<summary> <img src="https://img.shields.io/badge/Software%20Engineering-%231E90FF?style=flat&labelColor=black" /> </summary>
 <br>
 
 **🧠 COMPAIR – AI-Powered Comparison Assistant**  
@@ -36,7 +37,7 @@ Built with **Python**, **Flask**, **Raspberry Pi**, and **REST APIs**, combining
 ---
 
 <details>
-<summary>🤖 <span style="color:#8A2BE2"><strong>AI & Machine Learning Projects</strong></span></summary>
+<summary> <img src="https://img.shields.io/badge/AI%20%26%20Machine%20Learning-%238A2BE2?style=flat&labelColor=black" /></summary>
 <br>
 
 **🧩 COMPAIR – AI Integration**  
@@ -63,7 +64,7 @@ Worked with real datasets, focusing on data analysis, training, and visualizatio
 ---
 
 <details>
-<summary>📊 <span style="color:#228B22"><strong>Data Science Projects</strong></span></summary>
+<summary> <img src="https://img.shields.io/badge/Data%20Science-%23228B22?style=flat&labelColor=black" /></summary>
 <br>
 
 Projects centered on extracting insights, analyzing trends, and visualizing model performance.  
@@ -76,17 +77,11 @@ Tools used: **Python**, **Pandas**, **NumPy**, **Matplotlib**, **Seaborn**, **Po
 ### ⚙️ My Tech Stack  
 
 **Programming Languages:** Python, Java, C++, JavaScript, SQL, HTML  
-
 **Backend Development:** FastAPI, Flask, REST APIs, OpenAI API, Firebase API, Google Maps API  
-
 **Frontend Development:** React.js, Flutter, HTML, TailwindCSS  
-
 **Artificial Intelligence & Machine Learning:** scikit-learn, LangChain, OpenAI API, supervised & unsupervised learning, feature engineering, dimensionality reduction (PCA), model evaluation (AUC, ROC), hyperparameter tuning, prompt engineering  
-
 **Data Science & Visualization:** Matplotlib, Seaborn, Power BI  
-
 **Databases:** SQL (Oracle), NoSQL (Firebase Realtime Database)  
-
 **Cloud Platforms:** Google Cloud Platform (GCP), Firebase Hosting, Microsoft Azure  
 
 ### 🚀 Currently Working On  
@@ -95,8 +90,8 @@ Refining **COMPAIR** — expanding its architecture, improving grounding, and op
 
 ### 🌐 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Warda%20Hasan-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/wardacoder)   
-📧 **Email:** wardaulhasan@gmail.com 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Warda%20Hasan-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/wardacoder)  
+📧 **Email:** wardaulhasan@gmail.com  
 
 <p align="center">
   <em>“Code is the engine, data is the fuel, and intelligence is the outcome.”</em>
