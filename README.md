@@ -1,10 +1,15 @@
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9AFF&center=true&vCenter=true&width=750&lines=Computer+Engineer+%7C+Software+Engineering+%2B+AI+Integration;Full+Stack+Developer+%7C+AI+Engineer;Passionate+about+Building+Intelligent+Systems" alt="Typing SVG" /> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono:wght@700&pause=1000&color=2E9AFF&color2=8A2BE2&center=true&vCenter=true&width=780&lines=Software+Engineer+%7C+Full-Stack+Engineer;AI+Systems+Engineer+%7C+ML+%26+Data+Science;Passionate+About+Building+Intelligent+Systems" alt="Typing SVG" />
+</p>
 
-👋Hi I'm a **Computer Engineering graduate** from the 🎓**American University of Sharjah (AUS)** with a strong passion for **Software Engineering** and **AI Integration**. I love designing and developing intelligent, user-friendly systems that merge backend logic, frontend experience, and applied machine learning.
+👋 Hi, I'm Warda Hasan, a Computer Engineering graduate from 🎓 American University of Sharjah (AUS) with a strong foundation in Software Engineering and AI/ML.
+I have hands-on experience designing and developing innovative, efficient systems that merge backend logic, frontend experience, and intelligent functionality.
 
-Welcome to my GitHub!  
-Here you’ll find my main folders — each representing a part of my software engineering and AI journey.  
-Click a folder below to explore my projects 👇  
+Through academic and professional experiences, I’ve worked across the entire software development lifecycle (SDLC) from requirements gathering and system design to coding, testing, and deployment. I’ve also worked on projects that bring AI into real applications, from machine learning and data science to integrating intelligent components through OpenAI API and prompt engineering. These experiences have helped me design data-driven systems that solve real-world problems.
+
+Welcome to my GitHub!
+Here you’ll find my project folders, each showcasing a chapter of my journey in software engineering, AI systems, and data science.
+Click a folder below to explore 👇
 
 ## 🗂️ My Projects  
 
