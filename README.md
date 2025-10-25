@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9AFF&center=true&vCenter=true&width=750&lines=Computer+Engineer+%7C+Software+Engineering+%2B+AI+Integration;Full+Stack+Developer+%7C+AI+Engineer;Passionate+about+Building+Intelligent+Systems" alt="Typing SVG" />
+</p>
+
+---
+
 🎓 I'm a **Computer Engineering graduate** from the **American University of Sharjah (AUS)** with a strong passion for **Software Engineering** and **AI Integration**.  
 I love designing and developing intelligent, user-friendly systems that merge backend logic, frontend experience, and applied machine learning.
 
@@ -108,12 +114,6 @@ Refining **COMPAIR** — expanding its architecture, improving grounding, and op
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Warda%20Hasan-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/wardacoder)  
 [![GitHub](https://img.shields.io/badge/GitHub-wardacoder-lightgrey?style=flat-square&logo=github)](https://github.com/wardacoder)  
 📧 **Email:** warda.hasan@example.com *(replace with your real one)*  
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9AFF&center=true&vCenter=true&width=750&lines=Computer+Engineer+%7C+Software+Engineering+%2B+AI+Integration;Full+Stack+Developer+%7C+AI+Engineer;Passionate+about+Building+Intelligent+Systems" alt="Typing SVG" />
-</p>
 
 ---
 
