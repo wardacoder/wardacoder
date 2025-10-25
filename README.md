@@ -2,22 +2,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9AFF&center=true&vCenter=true&width=750&lines=Computer+Engineer+%7C+Software+Engineering+%2B+AI+Integration;Full+Stack+Developer+%7C+AI+Engineer;Passionate+about+Building+Intelligent+Systems" alt="Typing SVG" />
 </p>
 
----
-
-🎓 I'm a **Computer Engineering graduate** from the **American University of Sharjah (AUS)** with a strong passion for **Software Engineering** and **AI Integration**.  
-I love designing and developing intelligent, user-friendly systems that merge backend logic, frontend experience, and applied machine learning.
-
----
-
-## 🧭 Overview  
+🎓 Hi I'm a **Computer Engineering graduate** from the **American University of Sharjah (AUS)** with a strong passion for **Software Engineering** and **AI Integration**. I love designing and developing intelligent, user-friendly systems that merge backend logic, frontend experience, and applied machine learning.
 
 Welcome to my GitHub!  
-Here you’ll find my main folders — each representing a part of my engineering and AI journey.  
-Click a folder below to explore my projects 👇  
-
----
-
-## 🗂️ My Projects  
+Here you’ll find my main folders, each representing a part of my software engineering and AI journey. Click a folder below to explore my projects 👇  
 
 <details open>
 <summary>📁 <span style="color:#1E90FF"><strong>Software Engineering Projects</strong></span></summary>
@@ -85,7 +73,7 @@ Tools used: **Python**, **Pandas**, **NumPy**, **Matplotlib**, **Seaborn**, **Po
 
 ---
 
-## ⚙️ My Tech Stack  
+### ⚙️ My Tech Stack  
 
 **Programming Languages:** Python, Java, C++, JavaScript, SQL, HTML  
 
@@ -101,21 +89,14 @@ Tools used: **Python**, **Pandas**, **NumPy**, **Matplotlib**, **Seaborn**, **Po
 
 **Cloud Platforms:** Google Cloud Platform (GCP), Firebase Hosting, Microsoft Azure  
 
----
-
-## 🚀 Currently Working On  
+### 🚀 Currently Working On  
 
 Refining **COMPAIR** — expanding its architecture, improving grounding, and optimizing AI outputs while uniting my interests in **AI engineering**, **prompt design**, and **full-stack development**.  
 
----
+### 🌐 Connect With Me  
 
-## 🌐 Connect With Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Warda%20Hasan-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/wardacoder)  
-[![GitHub](https://img.shields.io/badge/GitHub-wardacoder-lightgrey?style=flat-square&logo=github)](https://github.com/wardacoder)  
-📧 **Email:** warda.hasan@example.com *(replace with your real one)*  
-
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Warda%20Hasan-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/wardacoder)   
+📧 **Email:** wardaulhasan@gmail.com 
 
 <p align="center">
   <em>“Code is the engine, data is the fuel, and intelligence is the outcome.”</em>
