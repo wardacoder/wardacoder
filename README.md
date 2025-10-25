@@ -8,36 +8,51 @@ I love designing and developing intelligent, user-friendly systems that merge ba
 ## 🧭 Overview  
 
 Welcome to my GitHub!  
-Here, you’ll find folders representing my main areas of interest and expertise — from full-stack software engineering to AI and data science. Each project demonstrates a unique part of my journey, combining both engineering and intelligence.  
+Here you’ll find my main folders — each representing a part of my engineering and AI journey.  
+Click a folder below to explore my projects 👇  
 
 ---
 
-## 🗂️ **Software Engineering Projects**  
+## 🗂️ My Projects  
+
+<details open>
+<summary>📁 <span style="color:#1E90FF"><strong>Software Engineering Projects</strong></span></summary>
+<br>
 
 **🧠 COMPAIR – AI-Powered Comparison Assistant**  
 A full-stack AI web application designed to help users compare anything — from gadgets and courses to subscription plans.  
-Developed using **React.js**, **FastAPI**, **REST APIs**, and **OpenAI API** integration.  
-It focuses on structured AI reasoning, prompt grounding, and an intuitive user experience.  
+Built with **React.js**, **FastAPI**, **REST APIs**, and **OpenAI API** integration.  
+It focuses on structured AI reasoning, prompt grounding, and a seamless user experience.  
 🔗 [View Project](https://github.com/wardacoder/COMPAIR)
-
-**⚙️ Automated Laundromat System**  
-A full SDLC-based project automating laundromat services from booking to tracking.  
-Developed using **Flutter**, **Firebase**, and **UML design artifacts**, emphasizing scalability and clear user flow.  
-🔗 [View Project](https://github.com/wardacoder/Automated-Laundromat-System)
-
-**🚗 Smart Toll Gate System**  
-An **IoT-based** project integrating hardware and software to automate toll operations.  
-Built with **Python**, **Flask**, **Raspberry Pi**, and **REST APIs**, combining embedded logic with web-based communication.  
-🔗 [View Project](https://github.com/wardacoder/Smart-Toll-Gate-System)
 
 ---
 
-## 🤖 **AI & Machine Learning Projects**
+**⚙️ Automated Laundromat System**  
+A full SDLC-based project automating laundromat services from booking to tracking.  
+Developed using **Flutter**, **Firebase**, and **UML design artifacts**, emphasizing scalability and clean design.  
+🔗 [View Project](https://github.com/wardacoder/Automated-Laundromat-System)
+
+---
+
+**🚗 Smart Toll Gate System**  
+An **IoT-based** project integrating hardware and software to automate toll operations.  
+Built with **Python**, **Flask**, **Raspberry Pi**, and **REST APIs**, combining embedded logic with web communication.  
+🔗 [View Project](https://github.com/wardacoder/Smart-Toll-Gate-System)
+
+</details>
+
+---
+
+<details>
+<summary>🤖 <span style="color:#8A2BE2"><strong>AI & Machine Learning Projects</strong></span></summary>
+<br>
 
 **🧩 COMPAIR – AI Integration**  
 Within COMPAIR, I designed prompt templates, grounding strategies, and API integrations using **OpenAI API** and **LangChain**, ensuring structured and context-aware responses.  
-Focused on minimizing hallucinations and improving precision through custom prompt engineering.  
+Focused on minimizing hallucinations and improving precision through tailored prompt engineering.  
 🔗 [View Project](https://github.com/wardacoder/COMPAIR)
+
+---
 
 **🌊 Flood Prediction System**  
 A **machine learning model** predicting flood likelihood using real-world data.  
@@ -45,20 +60,28 @@ Developed using **Python**, **scikit-learn**, and **semi-supervised learning (KN
 Emphasized **data preprocessing**, **feature selection**, and **model evaluation (accuracy, precision, recall, F1-score)**.  
 🔗 [View Project](https://github.com/wardacoder/Flood-Prediction-ML)
 
+---
+
 **🧬 Protein Stability Prediction**  
-A project predicting protein stability using **Random Forest models** and **PCA** for dimensionality reduction.  
-Worked with real datasets, focusing on data analysis, training, and visual interpretation using **Matplotlib** and **Seaborn**.  
+Predicted protein stability using **Random Forest** and **PCA** for dimensionality reduction.  
+Worked with real datasets, focusing on data analysis, training, and visualization with **Matplotlib** and **Seaborn**.  
+
+</details>
 
 ---
 
-## 📊 **Data Science Projects**
+<details>
+<summary>📊 <span style="color:#228B22"><strong>Data Science Projects</strong></span></summary>
+<br>
 
-These projects focus on extracting insights, analyzing trends, and visualizing model performance.  
-Tools used: **Python**, **Pandas**, **NumPy**, **Matplotlib**, **Seaborn**, and **Power BI**.
+Projects centered on extracting insights, analyzing trends, and visualizing model performance.  
+Tools used: **Python**, **Pandas**, **NumPy**, **Matplotlib**, **Seaborn**, **Power BI**.
+
+</details>
 
 ---
 
-## ⚙️ **My Tech Stack**
+## ⚙️ My Tech Stack  
 
 **Programming Languages:** Python, Java, C++, JavaScript, SQL, HTML  
 
@@ -76,9 +99,9 @@ Tools used: **Python**, **Pandas**, **NumPy**, **Matplotlib**, **Seaborn**, and 
 
 ---
 
-## 🧭 Currently Working On  
+## 🚀 Currently Working On  
 
-I’m currently refining **COMPAIR**, expanding its architecture and enhancing AI grounding and structured output design — combining my interests in **AI engineering**, **prompt design**, and **full-stack development**.  
+Refining **COMPAIR** — expanding its architecture, improving grounding, and optimizing AI outputs while uniting my interests in **AI engineering**, **prompt design**, and **full-stack development**.  
 
 ---
 
