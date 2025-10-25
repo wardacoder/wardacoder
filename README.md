@@ -1,88 +1,89 @@
-# 👋 Hi, I'm Warda Ul Hasan  
+# 👋 Hi, I'm Warda Hasan  
 
 🎓 I'm a **Computer Engineering graduate** from the **American University of Sharjah (AUS)** with a strong passion for **Software Engineering** and **AI Integration**.  
-I love building intelligent, user-friendly systems that merge backend logic, front-end design, and applied machine learning.  
+I love designing and developing intelligent, user-friendly systems that merge backend logic, frontend experience, and applied machine learning.
 
 ---
 
-## 💡 About Me
-- 💻 Strong interest in **Full-Stack Software Development**, **AI Integration**, and **Data Science**  
-- 🧠 Skilled in connecting the **software** and **AI** worlds — from developing RESTful APIs and user interfaces to integrating OpenAI-powered intelligence  
-- ⚙️ Experienced with **Python**, **FastAPI**, **React.js**, **OpenAI API**, **LangChain**, **Machine Learning**, **IoT**, and **Data Visualization**  
-- 🌱 Constantly learning and experimenting with new technologies that push boundaries between engineering and AI  
+## 🧭 Overview  
+
+Welcome to my GitHub!  
+Here, you’ll find folders representing my main areas of interest and expertise — from full-stack software engineering to AI and data science. Each project demonstrates a unique part of my journey, combining both engineering and intelligence.  
 
 ---
 
-## 🧩 Featured Projects
+## 🗂️ **Software Engineering Projects**  
 
-### 🔹 COMPAIR – AI-Powered Comparison Assistant  
-**Tech:** React.js | FastAPI | OpenAI API | LangChain | AWS | RESTful APIs  
+**🧠 COMPAIR – AI-Powered Comparison Assistant**  
 A full-stack AI web application designed to help users compare anything — from gadgets and courses to subscription plans.  
-- Developed both the **frontend and backend** architecture  
-- Built a **FastAPI-based RESTful API** to connect with **OpenAI’s GPT model**  
-- Integrated **AI reasoning and grounding** to minimize hallucinations and provide structured, accurate comparisons  
-- Focused on **prompt design**, **system messages**, and **context-specific grounding** for consistent AI behavior  
-🔗 [View Project on GitHub](https://github.com/wardacoder/COMPAIR)
+Developed using **React.js**, **FastAPI**, **REST APIs**, and **OpenAI API** integration.  
+It focuses on structured AI reasoning, prompt grounding, and an intuitive user experience.  
+🔗 [View Project](https://github.com/wardacoder/COMPAIR)
 
----
+**⚙️ Automated Laundromat System**  
+A full SDLC-based project automating laundromat services from booking to tracking.  
+Developed using **Flutter**, **Firebase**, and **UML design artifacts**, emphasizing scalability and clear user flow.  
+🔗 [View Project](https://github.com/wardacoder/Automated-Laundromat-System)
 
-### 🔹 Automated Laundromat System  
-**Tech:** Flutter | Firebase | Java | UML | SDLC Artifacts  
-A full SDLC-based project that automates the laundromat process from booking to tracking.  
-- Designed UML artifacts (Use Case, Class, and Sequence Diagrams)  
-- Focused on **user-centric design** and **backend integration** for real-time updates  
-- Developed using **Flutter** and **Firebase**, ensuring scalability and responsiveness  
-🔗 [View Project on GitHub](https://github.com/wardacoder/Automated-Laundromat-System)
-
----
-
-### 🔹 Smart Toll Gate System  
-**Tech:** Python | Raspberry Pi | Sensors | Flask | REST APIs  
+**🚗 Smart Toll Gate System**  
 An **IoT-based** project integrating hardware and software to automate toll operations.  
-- Programmed **Raspberry Pi** to handle sensor data and vehicle detection  
-- Built **Flask-based REST APIs** to connect hardware with the cloud  
-- Combined embedded systems knowledge with web-based control logic  
-🔗 [View Project on GitHub](https://github.com/wardacoder/Smart-Toll-Gate-System)
+Built with **Python**, **Flask**, **Raspberry Pi**, and **REST APIs**, combining embedded logic with web-based communication.  
+🔗 [View Project](https://github.com/wardacoder/Smart-Toll-Gate-System)
 
 ---
 
-## 🤖 AI & Data Science Projects
+## 🤖 **AI & Machine Learning Projects**
 
-### 🔹 Flood Prediction System  
-**Tech:** Python | scikit-learn | KNN | Semi-Supervised Learning | Matplotlib | Seaborn  
-Developed a **machine learning model** to predict flood likelihood using real-world data.  
-- Focused on **data preprocessing**, **feature selection**, and **model evaluation**  
-- Implemented metrics such as **accuracy**, **precision**, **recall**, and **F1-score**  
-- Gained experience with **semi-supervised learning** and **pseudo-labeling techniques**  
-🔗 [View Project on GitHub](https://github.com/wardacoder/Flood-Prediction-ML)
+**🧩 COMPAIR – AI Integration**  
+Within COMPAIR, I designed prompt templates, grounding strategies, and API integrations using **OpenAI API** and **LangChain**, ensuring structured and context-aware responses.  
+Focused on minimizing hallucinations and improving precision through custom prompt engineering.  
+🔗 [View Project](https://github.com/wardacoder/COMPAIR)
 
----
+**🌊 Flood Prediction System**  
+A **machine learning model** predicting flood likelihood using real-world data.  
+Developed using **Python**, **scikit-learn**, and **semi-supervised learning (KNN with pseudo-labeling)**.  
+Emphasized **data preprocessing**, **feature selection**, and **model evaluation (accuracy, precision, recall, F1-score)**.  
+🔗 [View Project](https://github.com/wardacoder/Flood-Prediction-ML)
 
-### 🔹 Protein Stability Prediction  
-**Tech:** Python | Random Forest | PCA | Data Visualization  
-Worked on predicting protein stability based on environmental and structural parameters.  
-- Implemented **feature extraction** and **dimensionality reduction (PCA)**  
-- Trained and tuned **Random Forest models** for stability classification  
-- Visualized trends using **Matplotlib** and **Seaborn**  
+**🧬 Protein Stability Prediction**  
+A project predicting protein stability using **Random Forest models** and **PCA** for dimensionality reduction.  
+Worked with real datasets, focusing on data analysis, training, and visual interpretation using **Matplotlib** and **Seaborn**.  
 
 ---
 
-## 📊 Technical Skills
-**Languages:** Python, Java, C, SQL, JavaScript  
-**Frameworks & Tools:** FastAPI, Flask, React.js, Firebase, LangChain  
-**AI & ML:** OpenAI API, scikit-learn, Pandas, NumPy, Matplotlib, Seaborn  
-**IoT & Embedded Systems:** Raspberry Pi, Sensors, APIs  
-**Cloud:** AWS, Google Cloud, Firebase  
-**Other:** Git, SDLC, UML, RESTful API design, Prompt Engineering  
+## 📊 **Data Science Projects**
+
+These projects focus on extracting insights, analyzing trends, and visualizing model performance.  
+Tools used: **Python**, **Pandas**, **NumPy**, **Matplotlib**, **Seaborn**, and **Power BI**.
 
 ---
 
-## 🚀 Currently Working On
-I’m currently enhancing **COMPAIR**, expanding its capabilities with improved grounding, structured output design, and cloud deployment — combining my interests in **AI engineering** and **full-stack development**.
+## ⚙️ **My Tech Stack**
+
+**Programming Languages:** Python, Java, C++, JavaScript, SQL, HTML  
+
+**Backend Development:** FastAPI, Flask, REST APIs, OpenAI API, Firebase API, Google Maps API  
+
+**Frontend Development:** React.js, Flutter, HTML, TailwindCSS  
+
+**Artificial Intelligence & Machine Learning:** scikit-learn, LangChain, OpenAI API, supervised & unsupervised learning, feature engineering, dimensionality reduction (PCA), model evaluation (AUC, ROC), hyperparameter tuning, prompt engineering  
+
+**Data Science & Visualization:** Matplotlib, Seaborn, Power BI  
+
+**Databases:** SQL (Oracle), NoSQL (Firebase Realtime Database)  
+
+**Cloud Platforms:** Google Cloud Platform (GCP), Firebase Hosting, Microsoft Azure  
 
 ---
 
-## 🌐 Connect With Me
+## 🧭 Currently Working On  
+
+I’m currently refining **COMPAIR**, expanding its architecture and enhancing AI grounding and structured output design — combining my interests in **AI engineering**, **prompt design**, and **full-stack development**.  
+
+---
+
+## 🌐 Connect With Me  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Warda%20Hasan-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/wardacoder)  
 [![GitHub](https://img.shields.io/badge/GitHub-wardacoder-lightgrey?style=flat-square&logo=github)](https://github.com/wardacoder)  
 📧 **Email:** warda.hasan@example.com *(replace with your real one)*  
@@ -91,41 +92,6 @@ I’m currently enhancing **COMPAIR**, expanding its capabilities with improved 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9AFF&center=true&vCenter=true&width=750&lines=Computer+Engineer+%7C+Software+Engineering+%2B+AI+Integration;Full+Stack+Developer+%7C+AI+Engineer;Passionate+about+Building+Intelligent+Systems" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/wardacoder">
-    <img src="https://img.shields.io/badge/GitHub-wardacoder-black?style=flat&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/wardacoder">
-    <img src="https://img.shields.io/badge/LinkedIn-Warda%20Hasan-blue?style=flat&logo=linkedin" />
-  </a>
-  <a href="mailto:warda.hasan@example.com">
-    <img src="https://img.shields.io/badge/Email-warda.hasan%40example.com-red?style=flat&logo=gmail" />
-  </a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wardacoder&show_icons=true&theme=tokyonight&count_private=true" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wardacoder&theme=tokyonight" height="165">
-</p>
-
----
-
-### 🧠 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wardacoder&layout=compact&theme=tokyonight" height="165">
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wardacoder&theme=tokyonight" />
 </p>
 
 ---
