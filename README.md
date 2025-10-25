@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Warda Hasan  
-
 🎓 I'm a **Computer Engineering graduate** from the **American University of Sharjah (AUS)** with a strong passion for **Software Engineering** and **AI Integration**.  
 I love designing and developing intelligent, user-friendly systems that merge backend logic, frontend experience, and applied machine learning.
 
