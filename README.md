@@ -34,23 +34,14 @@ Welcome to my GitHub! Here you'll find my **project folders**, each highlighting
 <details>
 <summary><b>🗂️ Software Engineering Projects</b></summary>
 
-#### 🧠 **COMPAIR – AI-Powered Comparison Assistant**
-> Full-stack AI web application for intelligent comparisons of anything — from gadgets to subscription plans
-- **Tech:** React.js, FastAPI, REST APIs, OpenAI API
-- **Focus:** Structured AI reasoning, prompt grounding, seamless UX
-- [View Project →](https://github.com/wardacoder/COMPAIR)
+#### 🧠 **COMPAIR** | [View Project →](https://github.com/wardacoder/COMPAIR)
+A full-stack comparison web application built with React.js and FastAPI, featuring AI integration through LangChain and OpenAI API for intelligent, structured comparisons. It combines robust frontend and backend engineering, API design, testing, and prompt-driven AI reasoning into a cohesive, reliable system.
 
-#### ⚙️ **Automated Laundromat System**
-> Complete SDLC project automating laundromat services from booking to tracking
-- **Tech:** Flutter, Firebase, UML design
-- **Focus:** Scalability, clean architecture
-- [View Project →](https://github.com/wardacoder/Automated-Laundromat-System)
+#### ⚙️ **Automated Laundromat System** | [View Project →](https://github.com/wardacoder/Automated-Laundromat-System)
+Software Engineering SDLC project covering requirements (FRs & NFRs), design and analysis (UML diagrams: Use Case, Class, Domain Model, and Sequence), full-stack implementation (Firebase backend database and hosting + Flutter frontend), testing (plans and cases), and deployment of a smart laundromat web system.
 
-#### 🚗 **Smart Toll Gate System**
-> IoT-based solution integrating hardware and software for automated toll operations
-- **Tech:** Python, Flask, Raspberry Pi, REST APIs
-- **Focus:** Embedded systems, web communication
-- [View Project →](https://github.com/wardacoder/Smart-Toll-Gate-System)
+#### 🚗 **Smart Toll Gate System** | [View Project →](https://github.com/wardacoder/Smart-Toll-Gate-System)
+Automated Smart Toll Gate System that detects vehicles using sensors, identifies them via RFID and optional license plate recognition, measures speed and weight, calculates toll fees, controls gate access, uploads data to ThingSpeak for cloud monitoring, and provides alerts and operator override options. 
 
 </details>
 
