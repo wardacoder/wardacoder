@@ -90,6 +90,7 @@ Projects focused on **extracting insights**, **analyzing trends**, and **visuali
 ## 🛠️ Tech Stack
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#6C63FF', 'primaryTextColor': '#ffffff', 'lineColor': '#8A2BE2', 'secondaryColor': '#b3a5ff'}}}%%
 mindmap
   root((Tech Stack))
     Programming
