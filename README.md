@@ -1,100 +1,200 @@
+<div align="center">
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono:wght@700&pause=1000&color=0A66C2&color2=5B2C6F&center=true&vCenter=true&width=780&lines=Software+Engineer+%7C+Full-Stack+Engineer;AI+Systems+Engineer+%7C+ML+%26+Data+Science;Passionate+About+Building+Intelligent+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&height=70&lines=Hi,+I'm+Warda+Ul+Hasan;Software+Engineer+|+Full+Stack+Developer;AI+Systems+Engineer+|+ML+%26+Data+Science;Building+Intelligent+Solutions" alt="Typing SVG" />
 </p>
 
-👋 Hi, I'm **Warda Hasan**, a **Computer Engineering graduate** from 🎓 **American University of Sharjah (AUS)** with a strong foundation in **Software Engineering** and **AI/ML**.  
-I design and build **innovative, intelligent systems** that combine backend logic, seamless frontend experiences, and applied machine learning.  
+**Computer Engineering Graduate** • **American University of Sharjah (AUS)**
 
-I’ve worked across the **entire software development lifecycle (SDLC)** — from requirements gathering and design to coding, testing, and deployment.  
-My AI experience spans both **AI system integration** — using **OpenAI API** and **prompt engineering** — and **machine learning research**, including **model training, data preprocessing, and feature analysis** for projects in **prediction and data science**.  
+<p align="center">
+  <a href="https://www.linkedin.com/in/wardaulhasan"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin" /></a>
+  <a href="mailto:wardaulhasan@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/wardacoder"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github" /></a>
+  <a href="https://www.google.com/maps/place/Dubai,+United+Arab+Emirates/"><img src="https://img.shields.io/badge/Dubai%2C%20UAE-Location-FF5733?style=flat-square&logo=google-maps&logoColor=white" /></a>
+</p>
 
-Welcome to my GitHub!  
-Here you’ll find my **project folders**, each highlighting a chapter of my journey across **software engineering**, **AI systems**, and **data science**.  
-Click below to explore 👇  
+</div>
+
+---
+
+## 🚀 What I Do
+
+I design and build **innovative, intelligent systems** that blend **robust backend logic**, **intuitive frontend experiences**, and **applied machine learning** to deliver impactful, end-to-end solutions.
+
+- 🔄 **Full Software Development Lifecycle (SDLC):** From requirements analysis and system design to implementation, testing, and deployment  
+- 💻 **Full-Stack Development:** Build scalable web applications using modern frameworks, RESTful APIs, and cloud technologies  
+- 🤖 **AI System Integration:** Implement OpenAI API, prompt engineering, grounding techniques, and LangChain for intelligent automation  
+- 📊 **Machine Learning & Data Science:** Perform model training, data preprocessing, and feature engineering to extract actionable insights 
+
+---
+
+## 💼 Project Portfolio
+
+Welcome to my GitHub! Here you'll find my **project folders**, each highlighting a chapter of my journey across **software engineering**, **AI systems**, and **data science**. Click below to explore 👇
 
 <details>
-<summary> 🗂️ <strong>Software Engineering Projects</strong> </summary>
-<br>
+<summary><b>🗂️ Software Engineering Projects</b></summary>
 
-**🧠 COMPAIR – AI-Powered Comparison Assistant**  
-A full-stack AI web application designed to help users compare anything — from gadgets and courses to subscription plans.  
-Built with **React.js**, **FastAPI**, **REST APIs**, and **OpenAI API** integration.  
-It focuses on structured AI reasoning, prompt grounding, and a seamless user experience.  
-🔗 [View Project](https://github.com/wardacoder/COMPAIR)
+#### 🧠 **COMPAIR – AI-Powered Comparison Assistant**
+> Full-stack AI web application for intelligent comparisons of anything — from gadgets to subscription plans
+- **Tech:** React.js, FastAPI, REST APIs, OpenAI API
+- **Focus:** Structured AI reasoning, prompt grounding, seamless UX
+- [View Project →](https://github.com/wardacoder/COMPAIR)
 
-**⚙️ Automated Laundromat System**  
-A full SDLC-based project automating laundromat services from booking to tracking.  
-Developed using **Flutter**, **Firebase**, and **UML design artifacts**, emphasizing scalability and clean design.  
-🔗 [View Project](https://github.com/wardacoder/Automated-Laundromat-System)
+#### ⚙️ **Automated Laundromat System**
+> Complete SDLC project automating laundromat services from booking to tracking
+- **Tech:** Flutter, Firebase, UML design
+- **Focus:** Scalability, clean architecture
+- [View Project →](https://github.com/wardacoder/Automated-Laundromat-System)
 
-**🚗 Smart Toll Gate System**  
-An **IoT-based** project integrating hardware and software to automate toll operations.  
-Built with **Python**, **Flask**, **Raspberry Pi**, and **REST APIs**, combining embedded logic with web communication.  
-🔗 [View Project](https://github.com/wardacoder/Smart-Toll-Gate-System)
+#### 🚗 **Smart Toll Gate System**
+> IoT-based solution integrating hardware and software for automated toll operations
+- **Tech:** Python, Flask, Raspberry Pi, REST APIs
+- **Focus:** Embedded systems, web communication
+- [View Project →](https://github.com/wardacoder/Smart-Toll-Gate-System)
+
+</details>
+
+<details>
+<summary><b>🗂️ AI & Machine Learning Projects</b></summary>
+
+#### 🧩 **COMPAIR – AI Integration**
+> Advanced prompt engineering and API integration within COMPAIR
+- **Tech:** OpenAI API, LangChain
+- **Focus:** Prompt templates, grounding strategies, minimizing hallucinations
+- [View Project →](https://github.com/wardacoder/COMPAIR)
+
+#### 🌊 **Flood Prediction System**
+> Machine learning model predicting flood likelihood using real-world data
+- **Tech:** Python, scikit-learn, semi-supervised learning (KNN with pseudo-labeling)
+- **Focus:** Data preprocessing, feature selection, model evaluation (accuracy, precision, recall, F1-score)
+- [View Project →](https://github.com/wardacoder/Flood-Prediction-ML)
+
+#### 🧬 **Protein Stability Prediction**
+> Predicting protein stability using ensemble methods
+- **Tech:** Random Forest, PCA for dimensionality reduction
+- **Focus:** Data analysis, training, visualization with Matplotlib and Seaborn
+
+</details>
+
+<details>
+<summary><b>🗂️ Data Science Projects</b></summary>
+
+Projects focused on **extracting insights**, **analyzing trends**, and **visualizing model performance**.
+
+**Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn, Power BI
 
 </details>
 
 ---
 
+## 🛠️ Tech Stack
+
+```mermaid
+mindmap
+  root((Tech Stack))
+    Programming
+      Python
+      JavaScript
+      Java
+      C++
+      SQL
+      HTML
+    Backend
+      FastAPI
+      Flask
+      REST APIs
+      OpenAI API
+      Firebase API
+      Google Maps API
+    Frontend
+      React.js
+      Flutter
+      HTML
+      TailwindCSS
+    AI/ML
+      scikit-learn
+      LangChain
+      OpenAI API
+      Feature Engineering
+      Model Evaluation
+      Prompt Engineering
+    Data Science
+      Matplotlib
+      Seaborn
+      Power BI
+      Pandas
+      NumPy
+    Databases
+      Oracle SQL
+      Firebase Realtime
+    Cloud
+      Google Cloud
+      Firebase Hosting
+      Microsoft Azure
+```
+
 <details>
-<summary> 🗂️ <strong>AI & Machine Learning Projects</strong> </summary>
-<br>
+<summary>📋 <b>Detailed Skills Breakdown</b></summary>
 
-**🧩 COMPAIR – AI Integration**  
-Within COMPAIR, I designed prompt templates, grounding strategies, and API integrations using **OpenAI API** and **LangChain**, ensuring structured and context-aware responses.  
-Focused on minimizing hallucinations and improving precision through tailored prompt engineering.  
-🔗 [View Project](https://github.com/wardacoder/COMPAIR)
+### Programming Languages
+`Python` `Java` `C++` `JavaScript` `SQL` `HTML`
 
-**🌊 Flood Prediction System**  
-A **machine learning model** predicting flood likelihood using real-world data.  
-Developed using **Python**, **scikit-learn**, and **semi-supervised learning (KNN with pseudo-labeling)**.  
-Emphasized **data preprocessing**, **feature selection**, and **model evaluation (accuracy, precision, recall, F1-score)**.  
-🔗 [View Project](https://github.com/wardacoder/Flood-Prediction-ML)
+### Backend Development
+`FastAPI` `Flask` `REST APIs` `OpenAI API` `Firebase API` `Google Maps API`
 
-**🧬 Protein Stability Prediction**  
-Predicted protein stability using **Random Forest** and **PCA** for dimensionality reduction.  
-Worked with real datasets, focusing on data analysis, training, and visualization with **Matplotlib** and **Seaborn**.  
+### Frontend Development
+`React.js` `Flutter` `HTML` `TailwindCSS`
+
+### Artificial Intelligence & Machine Learning
+- **Frameworks:** `scikit-learn` `LangChain` `OpenAI API`
+- **Techniques:** Supervised & Unsupervised Learning, Feature Engineering, Dimensionality Reduction (PCA), Model Evaluation (AUC, ROC), Hyperparameter Tuning, Prompt Engineering
+
+### Data Science & Visualization
+`Matplotlib` `Seaborn` `Power BI`
+
+### Databases
+`SQL (Oracle)` `NoSQL (Firebase Realtime Database)`
+
+### Cloud Platforms
+`Google Cloud Platform (GCP)` `Firebase Hosting` `Microsoft Azure`
 
 </details>
 
 ---
 
-<details>
-<summary>🗂️ <strong>Data Science Projects</strong> </summary>
-<br>
+## 💼 Current Focus
 
-Projects focused on extracting insights, analyzing trends, and visualizing model performance.  
-Tools used: **Python**, **Pandas**, **NumPy**, **Matplotlib**, **Seaborn**, and **Power BI**.
-
-</details>
+> 🔨 **Enhancing COMPAIR** — Expanding capabilities with improved grounding, structured output design, and cloud deployment
+> 
+> *Combining my interests in full-stack engineering and AI systems engineering*
 
 ---
 
-### ⚙️ My Tech Stack  
+## 🤝 Let's Connect!
 
-**Programming Languages:** Python, Java, C++, JavaScript, SQL, HTML  
-**Backend Development:** FastAPI, Flask, REST APIs, OpenAI API, Firebase API, Google Maps API  
-**Frontend Development:** React.js, Flutter, HTML, TailwindCSS  
-**Artificial Intelligence & Machine Learning:** scikit-learn, LangChain, OpenAI API, supervised & unsupervised learning, feature engineering, dimensionality reduction (PCA), model evaluation (AUC, ROC), hyperparameter tuning, prompt engineering  
-**Data Science & Visualization:** Matplotlib, Seaborn, Power BI  
-**Databases:** SQL (Oracle), NoSQL (Firebase Realtime Database)  
-**Cloud Platforms:** Google Cloud Platform (GCP), Firebase Hosting, Microsoft Azure  
+<div align="leftr">
 
----
+### Open to Collaborations & Opportunities  
 
-### 🚀 Currently Working On  
+I’m always excited to connect around:  
 
-I’m currently enhancing **COMPAIR**, expanding its capabilities with improved grounding, structured output design, and cloud deployment, combining my interests in **full-stack engineering** and **AI systems engineering**. 
+-  **Software Engineering** and scalable system design  
+-  **Full-Stack Development** using modern frameworks  
+-  **AI/ML-driven applications** and intelligent automation  
+-  **Cloud-based architectures** and deployment solutions  
+-  **Data Science projects** focused on meaningful insights  
 
----
+<p align="left">
+  <a href="https://www.linkedin.com/in/wardaulhasan"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin" /></a>
+  <a href="mailto:wardaulhasan@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.google.com/maps/place/Dubai,+United+Arab+Emirates/"><img src="https://img.shields.io/badge/Dubai%2C%20UAE-Location-FF5733?style=flat-square&logo=google-maps&logoColor=white" /></a>
+</p>
 
-### 🌐 Connect With Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Warda%20Hasan-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/wardaulhasan)  
-📧 **Email:** wardaulhasan@gmail.com  
+</div>
 
 ---
 
 <p align="center">
-  <em>“Code is the engine, data is the fuel, and intelligence is the outcome.”</em>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer&text=%22Code%20is%20the%20engine,%20data%20is%20the%20fuel,%20and%20intelligence%20is%20the%20outcome.%22&fontSize=16&fontAlignY=70&fontColor=ffffff"/>
 </p>
