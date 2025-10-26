@@ -9,7 +9,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/wardaulhasan"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin" /></a>
   <a href="mailto:wardaulhasan@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/wardacoder"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github" /></a>
   <a href="https://www.google.com/maps/place/Dubai,+United+Arab+Emirates/"><img src="https://img.shields.io/badge/Dubai%2C%20UAE-Location-FF5733?style=flat-square&logo=google-maps&logoColor=white" /></a>
 </p>
 
