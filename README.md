@@ -196,5 +196,5 @@ I’m always excited to connect around:
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer&text=%22Code%20is%20the%20engine,%20data%20is%20the%20fuel,%20and%20intelligence%20is%20the%20outcome.%22&fontSize=16&fontAlignY=70&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer&text=%22Code%20is%20the%20engine,%20data%20is%20the%20fuel,%20and%20intelligence%20is%20the%20outcome.%22&fontSize=16&fontAlignY=70&fontColor=000000"/>
 </p>
