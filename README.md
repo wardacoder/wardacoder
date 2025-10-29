@@ -67,7 +67,7 @@ Automated Smart Toll Gate System that detects vehicles using sensors, identifies
 
 </details>
 
-<details>
+<!-- <details>
 <summary><b>🗂️ Data Science Projects</b></summary>
 
 Projects focused on **extracting insights**, **analyzing trends**, and **visualizing model performance**.
@@ -75,7 +75,7 @@ Projects focused on **extracting insights**, **analyzing trends**, and **visuali
 **Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn, Power BI
 
 </details>
-
+-->
 ---
 
 ## 🛠️ Tech Stack
