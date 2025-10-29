@@ -29,7 +29,9 @@ I design and build **innovative, intelligent systems** that blend **robust backe
 
 ## 💼 Project Portfolio
 
-Welcome to my GitHub! Here you'll find my **project folders**, each highlighting a chapter of my journey across **software engineering**, **AI systems**, and **data science**. Click below to explore 👇
+Welcome to my GitHub! Here you'll find my **project folders**, each highlighting a chapter of my journey across **software engineering**, **AI systems**, and **data science**. 
+
+Click below to explore 👇
 
 <details>
 <summary><b>🗂️ Software Engineering Projects</b></summary>
