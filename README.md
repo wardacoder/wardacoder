@@ -54,22 +54,15 @@ Full-stack AIoT engineering project integrating embedded hardware, cloud infrast
 <details>
 <summary><b>🗂️ AI & Machine Learning Projects</b></summary>
 
-#### 🧩 **COMPAIR – AI Integration**
-> Advanced prompt engineering and API integration within COMPAIR
-- **Tech:** OpenAI API, LangChain
-- **Focus:** Prompt templates, grounding strategies, minimizing hallucinations
-- [View Project →](https://github.com/wardacoder/COMPAIR)
+#### 🧠 **COMPAIR – AI-Powered Comparison Web Application** | [View Project →](https://github.com/wardacoder/COMPAIR)
+Full-stack AI system built with FastAPI, React.js, LangChain, and OpenAI GPT-4o for structured, context-aware comparisons across multiple categories. Integrates multi-layered prompt design with dynamic personalization, category-grounded reasoning to filter invalid inputs, and schema-validated JSON outputs to ensure reliable, explainable AI responses.
 
-#### 🌊 **Flood Prediction System**
-> Machine learning model predicting flood likelihood using real-world data
-- **Tech:** Python, scikit-learn, semi-supervised learning (KNN with pseudo-labeling)
-- **Focus:** Data preprocessing, feature selection, model evaluation (accuracy, precision, recall, F1-score)
-- [View Project →](https://github.com/wardacoder/Flood-Prediction-ML)
+#### 🌊 **Semi-Supervised Learning Framework for Flood Prediction** | [View Project →](https://github.com/wardacoder/Flood-Prediction-ML)
+Semi-supervised machine learning framework for datasets with limited labels, demonstrating applied AI/ML and data science skills in predictive modeling. Includes rigorous data preprocessing, selective pseudo-labeling, and a three-phase training workflow, achieving strong result of test F1 = 0.9986, surpassing published benchmarks
 
-#### 🧬 **Protein Stability Prediction**
-> Predicting protein stability using ensemble methods
-- **Tech:** Random Forest, PCA for dimensionality reduction
-- **Focus:** Data analysis, training, visualization with Matplotlib and Seaborn
+
+#### 🧬 **Using Machine Learning to Predict Protein Stability** | [View Project →](https://github.com/wardacoder/Flood-Prediction-ML)
+Developed a supervised learning framework to predict protein stability upon single-point mutations using thermodynamic data derived from trypsin and chymotrypsin experiments. Implemented KNN, SVM, Decision Tree, and Naïve Bayes models with a rigorous pipeline including outlier removal (Z-score), standardization, class rebalancing (hybrid over- and undersampling), feature selection (SelectKBest), and dimensionality reduction (PCA). Performed 10-fold cross-validation and hyperparameter tuning across models, achieving strong generalization and robust predictive accuracy. Evaluated performance using F1-score, precision, recall, confusion matrix, and AUC-ROC curves to ensure stability predictions were reliable across all mutation classes
 
 </details>
 
