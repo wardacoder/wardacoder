@@ -41,7 +41,13 @@ A full-stack comparison web application built with React.js and FastAPI, featuri
 Software Engineering SDLC project covering requirements (FRs & NFRs), design and analysis (UML diagrams: Use Case, Class, Domain Model, and Sequence), full-stack implementation (Firebase backend database and hosting + Flutter frontend), testing (plans and cases), and deployment of a smart laundromat web system.
 
 #### 🚗 **Smart Toll Gate System** | [View Project →](https://github.com/wardacoder/Smart-Toll-Gate-System)
-Automated Smart Toll Gate System that detects vehicles using sensors, identifies them via RFID and optional license plate recognition, measures speed and weight, calculates toll fees, controls gate access, uploads data to ThingSpeak for cloud monitoring, and provides alerts and operator override options. 
+An automated Smart Toll Gate System built using Raspberry Pi, integrating sensors and RFID for vehicle detection and identification, along with speed and weight measurement for dynamic toll calculation. The system controls gate access, uploads data to ThingSpeak for cloud monitoring, and supports operator overrides and alert mechanisms. It also includes RESTful Flask APIs that enable web-based gate operations, real-time vehicle information, and trespassing event handling through defined routes.
+
+#### ⚔️ **Multithreaded RPG Engine with Design Patterns & Sensor Integration** | [View Project →](https://github.com/wardacoder/Multithreaded-Design_Patterns-RPG)
+Java-based multithreaded RPG engine showcasing professional software architecture with advanced objected oriented programming. Implements six software design patterns Observer, Singleton, Template Method, Strategy, State, and Command. Uses concurrent threads for battle timing and real-time gyroscope, accelerometer, and sound input with synchronized, thread-safe execution.
+
+#### 🌤️ **AI & IoT Based Air Quality Monitoring and Prediction** | [View Project →](https://medium.com/@wardaulhasan/building-a-smart-solar-powered-aiot-system-for-real-time-air-quality-monitoring-and-prediction-a2449d4009d8))
+Full-stack AIoT engineering project integrating embedded hardware, cloud infrastructure, and machine learning for real-time air quality monitoring and forecasting. Developed solar-powered ESP32 sensor nodes, a Firebase–GCP cloud pipeline, and a Flutter dashboard for live data visualization and predictive analytics using a hybrid CNN–BiLSTM model.
 
 </details>
 
