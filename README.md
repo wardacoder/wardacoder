@@ -48,7 +48,7 @@ An automated Smart Toll Gate System built using Raspberry Pi, integrating sensor
 #### ⚔️ **Multithreaded RPG Engine with Design Patterns & Sensor Integration** | [View Project →](https://github.com/wardacoder/Multithreaded-Design_Patterns-RPG)
 Java-based multithreaded RPG engine showcasing professional software architecture with advanced objected oriented programming. Implements six software design patterns Observer, Singleton, Template Method, Strategy, State, and Command. Uses concurrent threads for battle timing and real-time gyroscope, accelerometer, and sound input with synchronized, thread-safe execution.
 
-#### 🌤️ **AI & IoT Based Air Quality Monitoring and Prediction** | [View Project →](https://medium.com/@wardaulhasan/building-a-smart-solar-powered-aiot-system-for-real-time-air-quality-monitoring-and-prediction-a2449d4009d8))
+#### 🌤️ **AI & IoT Based Air Quality Monitoring and Prediction** | [View Project →](https://medium.com/@wardaulhasan/building-a-smart-solar-powered-aiot-system-for-real-time-air-quality-monitoring-and-prediction-a2449d4009d8)
 Full-stack AIoT engineering project integrating embedded hardware, cloud infrastructure, and machine learning for real-time air quality monitoring and forecasting. Developed solar-powered ESP32 sensor nodes, a Firebase–GCP cloud pipeline, and a Flutter dashboard for live data visualization and predictive analytics using a hybrid CNN–BiLSTM model.
 
 </details>
