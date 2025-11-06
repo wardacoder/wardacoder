@@ -20,9 +20,9 @@
 
 I design and build **innovative, intelligent systems** that blend **robust backend logic**, **intuitive frontend experiences**, and **applied machine learning** to deliver impactful, end-to-end solutions.
 
-- 🔄 **Full Software Development Lifecycle (SDLC):** From requirements analysis and system design to implementation, testing, and deployment  
+- 🔄 **Full Software Development Lifecycle (SDLC):** From requirements analysis and system design to implementation, testing, and deployment
+- 🤖 **AI System Integration & RAG Workflows:** Build context-aware intelligent systems using LLM integration, prompt engineering, retrieval-augmented generation (RAG), grounding strategies, and LangChain-based orchestration.
 - 💻 **Full-Stack Development:** Build scalable web applications using modern frameworks, RESTful APIs, and cloud technologies  
-- 🤖 **AI System Integration:** Implement OpenAI API, prompt engineering, grounding techniques, and LangChain for intelligent automation  
 - 📊 **Machine Learning & Data Science:** Perform model training, data preprocessing, and feature engineering to extract actionable insights 
 
 ---
@@ -59,7 +59,7 @@ Full-stack AIoT engineering project integrating embedded hardware, cloud infrast
 #### 🧠 **COMPAIR – AI-Powered Comparison Web Application** | [View Project →](https://github.com/wardacoder/COMPAIR)
 Full-stack AI system built with FastAPI, React.js, LangChain, and OpenAI GPT-4o for structured, context-aware comparisons across multiple categories. Integrates multi-layered prompt design with dynamic personalization, category-grounded reasoning to filter invalid inputs, and schema-validated JSON outputs to ensure reliable, explainable AI responses.
 
-#### 🌊 **Semi-Supervised Learning Framework for Flood Prediction** | [View Project →](https://github.com/wardacoder/Flood-Prediction-ML)
+#### 🌊 **Semi-Supervised Learning Framework for Flood Prediction** | [View Project →](https://github.com/wardacoder/Semi-Supervised-ML-Framework_For_Flood_Prediction)
 Semi-supervised machine learning framework for datasets with limited labels, demonstrating applied AI/ML and data science skills in predictive modeling. Includes rigorous data preprocessing, selective pseudo-labeling, and a three-phase training workflow, achieving strong result of test F1 = 0.9986, surpassing published benchmarks
 
 
