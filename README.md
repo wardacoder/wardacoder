@@ -37,7 +37,7 @@ Click below to explore 👇
 <summary><b>🗂️ Software Engineering Projects</b></summary>
 
 #### 🧠 **COMPAIR** | [View Project →](https://github.com/wardacoder/COMPAIR)
-A full-stack comparison web application built with React.js and FastAPI, featuring AI integration through LangChain and OpenAI API for intelligent, structured comparisons. It combines robust frontend and backend engineering, API design, testing, and prompt-driven AI reasoning into a cohesive, reliable system.
+A full-stack AI comparison web application built with FastAPI, React.js, LangChain, and GPT-4o, enhanced with Brave Search grounding for accurate, real-time context. Supports personalized, category-aware comparisons, schema-validated outputs, caching, and PostgreSQL-backed history with follow-up reasoning and shareable comparison links.
 
 #### ⚙️ **Automated Laundromat System** | [View Project →](https://github.com/wardacoder/Automated-Laundromat-System)
 Software Engineering SDLC project covering requirements (FRs & NFRs), design and analysis (UML diagrams: Use Case, Class, Domain Model, and Sequence), full-stack implementation (Firebase backend database and hosting + Flutter frontend), testing (plans and cases), and deployment of a smart laundromat web system.
