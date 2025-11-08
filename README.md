@@ -37,7 +37,7 @@ Click below to explore 👇
 <summary><b>🗂️ Software Engineering Projects</b></summary>
 
 #### 🧠 **COMPAIR** | [View Project →](https://github.com/wardacoder/COMPAIR)
-A full-stack AI comparison web application built with FastAPI, React.js, LangChain, and GPT-4o, enhanced with Brave Search grounding for accurate, real-time context. Supports personalized, category-aware comparisons, schema-validated outputs, caching, and PostgreSQL-backed history with follow-up reasoning and shareable comparison links.
+A full-stack comparison web application built with React.js and FastAPI, featuring AI integration through LangChain and OpenAI API for intelligent, structured comparisons. It combines robust frontend and backend engineering, API design, testing, and prompt-driven AI reasoning into a cohesive, reliable system.
 
 #### ⚙️ **Automated Laundromat System** | [View Project →](https://github.com/wardacoder/Automated-Laundromat-System)
 Software Engineering SDLC project covering requirements (FRs & NFRs), design and analysis (UML diagrams: Use Case, Class, Domain Model, and Sequence), full-stack implementation (Firebase backend database and hosting + Flutter frontend), testing (plans and cases), and deployment of a smart laundromat web system.
@@ -57,7 +57,7 @@ Full-stack AIoT engineering project integrating embedded hardware, cloud infrast
 <summary><b>🗂️ AI & Machine Learning Projects</b></summary>
 
 #### 🧠 **COMPAIR – AI-Powered Comparison Web Application** | [View Project →](https://github.com/wardacoder/COMPAIR)
-Full-stack AI system built with FastAPI, React.js, LangChain, and OpenAI GPT-4o for structured, context-aware comparisons across multiple categories. Integrates multi-layered prompt design with dynamic personalization, category-grounded reasoning to filter invalid inputs, and schema-validated JSON outputs to ensure reliable, explainable AI responses.
+A full-stack AI comparison web application built with FastAPI, React.js, LangChain, and GPT-4o, enhanced with Brave Search grounding for accurate, real-time context. Supports personalized, category-aware comparisons, schema-validated outputs, caching, and PostgreSQL-backed history with follow-up reasoning and shareable comparison links.
 
 #### 🌊 **Semi-Supervised Learning Framework for Flood Prediction** | [View Project →](https://github.com/wardacoder/Semi-Supervised-ML-Framework_For_Flood_Prediction)
 Semi-supervised machine learning framework for datasets with limited labels, demonstrating applied AI/ML and data science skills in predictive modeling. Includes rigorous data preprocessing, selective pseudo-labeling, and a three-phase training workflow, achieving strong result of test F1 = 0.9986, surpassing published benchmarks
