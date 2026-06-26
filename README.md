@@ -59,6 +59,9 @@ Full-stack AIoT engineering project integrating embedded hardware, cloud infrast
 #### 🧠 **COMPAIR – AI-Powered Comparison Web Application** | [View Project →](https://github.com/wardacoder/COMPAIR)
 A full-stack AI comparison web application built with FastAPI, React.js, LangChain, and GPT-4o, enhanced with Brave Search grounding for accurate, real-time context. Supports personalized, category-aware comparisons, schema-validated outputs, caching, and PostgreSQL-backed history with follow-up reasoning and shareable comparison links.
 
+#### 🛡️ **Real-Time Fall Detection with TinyML** | [View Project →](https://github.com/wardacoder/fall-detection-tinyml)
+On-device fall detection system for elderly care, running entirely on an Arduino Nano 33 BLE Sense with no phone or cloud dependency. Designed a selective multi-stage inference cascade that resolves everyday activity with lightweight arithmetic and only wakes the neural network when a fall is likely, achieving 97.5% live accuracy while cutting per-event energy by 98.4% versus an always-on CNN. Built the full pipeline from IMU data collection and windowing to threshold derivation, logistic-regression gating, CNN training, and TensorFlow Lite deployment as a 5.86 KB model on a Cortex-M4 board.
+
 #### 🌊 **Semi-Supervised Learning Framework for Flood Prediction** | [View Project →](https://github.com/wardacoder/Semi-Supervised-ML-Framework_For_Flood_Prediction)
 Semi-supervised machine learning framework for datasets with limited labels, demonstrating applied AI/ML and data science skills in predictive modeling. Includes rigorous data preprocessing, selective pseudo-labeling, and a three-phase training workflow, achieving strong result of test F1 = 0.9986, surpassing published benchmarks
 
@@ -111,6 +114,9 @@ mindmap
       Feature Engineering
       Model Evaluation
       Prompt Engineering
+      TensorFlow Lite
+      TinyML
+      Edge AI
     Data Science
       Matplotlib
       Seaborn
@@ -139,8 +145,8 @@ mindmap
 `React.js` `Flutter` `HTML` `TailwindCSS`
 
 ### Artificial Intelligence & Machine Learning
-- **Frameworks:** `scikit-learn` `LangChain` `OpenAI API`
-- **Techniques:** Supervised & Unsupervised Learning, Feature Engineering, Dimensionality Reduction (PCA), Model Evaluation (AUC, ROC), Hyperparameter Tuning, Prompt Engineering
+- **Frameworks:** `scikit-learn` `LangChain` `OpenAI API` `TensorFlow/Keras` `TensorFlow Lite`
+- **Techniques:** Supervised & Unsupervised Learning, Feature Engineering, Dimensionality Reduction (PCA), Model Evaluation (AUC, ROC), Hyperparameter Tuning, Prompt Engineering, TinyML & Edge AI Deployment, Model Quantization, CNNs
 
 ### Data Science & Visualization
 `Matplotlib` `Seaborn` `Power BI`
